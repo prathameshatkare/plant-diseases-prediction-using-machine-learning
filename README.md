@@ -29,7 +29,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/plant-disease-prediction.git
+git clone https://github.com/prathameshatkare/plant-diseases-prediction-using-machine-learning
 cd plant-disease-prediction
 Install dependencies:
 
